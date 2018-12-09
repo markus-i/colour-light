@@ -4,7 +4,7 @@ running on Arduino (tested for Nano)
 
 uses the FastLed, ClickEncoder and TimerOne libraries
 
-In the current version, 4 strings of 3 LEDs (WS8212B / Nanopixel type) are used. Adapt to whatever 
+In the current version, 4 strings of 3 LEDs (WS2812B / Nanopixel type) are used. Adapt to whatever 
 LED setup you want to use.
 Also, in this version, to simplify the UI, only brightness (=value) and colour (=hue) are changeable. 
 Further modes for switching saturation (pastel colours) and permanent colour change (=disco) are
